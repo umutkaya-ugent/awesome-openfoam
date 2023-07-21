@@ -4,6 +4,7 @@ OpenFOAM resources
 # Comprehensive Tutorials
 - http://www.tfd.chalmers.se/~hani/kurser/OS_CFD/
 - https://github.com/phresher/openfoam_tutorials
+- https://github.com/jnmlujnmlu/OpenFOAMTeaching
 
 # Programming
 - https://github.com/UnnamedMoose/BasicOpenFOAMProgrammingTutorials
