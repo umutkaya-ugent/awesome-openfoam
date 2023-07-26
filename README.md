@@ -12,3 +12,9 @@ OpenFOAM resources
 - http://www.tfd.chalmers.se/~hani/kurser/OS_CFD_2011/highLevelProgramming.pdf
 - http://www.wolfdynamics.com/training/introOF8/supplement_programming_openfoam.pdf
 - https://github.com/phresher/OpenFOAM_Tutorials_Plus
+- https://github.com/Rvadrabade/OpenFOAM-Programing
+
+# VSCode
+- https://medium.com/@mustafaabbs2/setting-up-my-openfoam-development-environment-on-windows-37b1575ecd4f
+- https://openfoamwiki.net/index.php/HowTo_Use_OpenFOAM_with_Visual_Studio_Code
+- https://github.com/Rvadrabade/Debugging-OpenFOAM-with-Visual-Studio-Code
