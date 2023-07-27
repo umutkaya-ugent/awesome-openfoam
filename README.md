@@ -18,3 +18,5 @@ OpenFOAM resources
 - https://medium.com/@mustafaabbs2/setting-up-my-openfoam-development-environment-on-windows-37b1575ecd4f
 - https://openfoamwiki.net/index.php/HowTo_Use_OpenFOAM_with_Visual_Studio_Code
 - https://github.com/Rvadrabade/Debugging-OpenFOAM-with-Visual-Studio-Code
+- https://medium.com/@mustafaabbs2/stepping-through-simplefoam-with-vs-code-a-guide-to-debugging-solvers-39bfb1411372
+  
